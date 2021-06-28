@@ -17,7 +17,6 @@ function addInCartMessage(title, price) {
     // Конец решения задания №1.1.
 
 
-    
     return message;
 }
 
